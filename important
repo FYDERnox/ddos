@@ -1,0 +1,9 @@
+# ddos
+pour couper la connexion de n'importe qui  grâce a une IP
+
+ouvrir un cmd est faire : 
+
+- pip install colorama
+- pip install scapy 
+
+serveur discord :  https://discord.gg/n6627GAK2q
